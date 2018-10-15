@@ -1,0 +1,170 @@
+html, body {
+    color: #777;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    background: url('../images/intersection.png');
+
+
+}
+
+div {
+    align-items: center;
+}
+
+header .container{
+    margin: 0 auto;
+    vertical-align: middle;
+    padding: 20px;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+p {
+    font-size: 14px;
+}
+
+
+
+a:link, a:visited {
+    text-decoration: none;
+    color: #777;
+}
+
+
+ a:active, a:hover {
+    color: #4aaaa5;
+    text-decoration: none;
+
+}
+
+
+.navbar ul li {
+    display: inline-block;
+    padding: 0 10px;
+    color: #ddd;
+    text-decoration: none;
+
+    
+}
+
+
+
+section {
+    margin: 0 auto;
+    height: 100%;
+
+}
+
+div {
+    margin: 0 auto;
+    height: 100%;
+
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+
+}
+
+footer .container {
+    background-color: #666666;
+
+}
+
+section .container {
+    background-color: #666666;
+
+}
+
+#heading {
+    background-color: #4aaaa5;
+    color: white;
+}
+
+
+
+
+#main {
+    border: 1px solid #ddd;
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+
+}
+
+#guess {
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    margin-right: 10px;    
+    background-color: #4aaaa5;
+    color: white;
+
+}
+
+#heading div {
+    padding-left: 10px;
+}
+
+#player-score {
+    padding: 1px 0px 10px 10px;
+    margin-top: 10px;
+    background-color: #4aaaa5;
+    color: white;
+
+}
+
+
+#wins-losses {
+    background-color: #666666;
+    color: white;
+    padding: 9px 0px 9px 10px;
+}
+
+#crystal-btn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#crystals {
+    text-align: center;
+    
+}
+
+
+#crystals img {
+    height: 130px;
+    padding: 10px 20px 10px 20px;
+    background-color: white;
+    margin: 5px;
+}
+
+.row {
+    align-content: center;
+}
+
+
+footer {
+    background-color: #666666;
+    margin: auto;
+    text-align: center;
+    vertical-align: bottom;
+    color: #ddd;
+    border-top: 7px solid #4aaaa5;
+    clear: both;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    font-size: 12px;
+    padding-top: 15px;
+    z-index: 101;
+
+}
+
